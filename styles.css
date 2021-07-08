@@ -1,0 +1,41 @@
+@charset "utf-8";
+@import url("PLANK/stylesheet.css");
+
+.container-fluid {
+    background-image: -webkit-linear-gradient(270deg,rgba(66,5,247,1.00) 0%,rgba(241,241,241,1.00) 32.12%,rgba(255,255,255,1.00) 50.36%,rgba(225,225,227,1.00) 65.70%,rgba(26,0,255,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(66,5,247,1.00) 0%,rgba(241,241,241,1.00) 32.12%,rgba(255,255,255,1.00) 50.36%,rgba(225,225,227,1.00) 65.70%,rgba(26,0,255,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(66,5,247,1.00) 0%,rgba(241,241,241,1.00) 32.12%,rgba(255,255,255,1.00) 50.36%,rgba(225,225,227,1.00) 65.70%,rgba(26,0,255,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(66,5,247,1.00) 0%,rgba(241,241,241,1.00) 32.12%,rgba(255,255,255,1.00) 50.36%,rgba(225,225,227,1.00) 65.70%,rgba(26,0,255,1.00) 100%);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(270deg,rgba(33,0,255,1.00) 0%,rgba(255,255,255,1.00) 49.12%,rgba(19,0,250,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(33,0,255,1.00) 0%,rgba(255,255,255,1.00) 49.12%,rgba(19,0,250,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(33,0,255,1.00) 0%,rgba(255,255,255,1.00) 49.12%,rgba(19,0,250,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(33,0,255,1.00) 0.00%,rgba(255,255,255,1.00) 49.12%,rgba(19,0,250,1.00) 100.00%);
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: normal;
+    font-weight: 400;
+
+}
+.container .text-center strong {
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    border-color: #FFFDFD;
+    border-spacing: 0px 0px;
+    border-style: solid;
+    border-radius: 1px;
+}
+.row .col-lg-2 .img-fluid {
+    text-shadow: 67px 70px;
+}
+
+.container-fluid .container .text-center {
+}
+.container-fluid .container .text-center {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-style: normal;
+    font-weight: 400;
+    text-shadow: 0px 11px 20px #4E4E4E;
+}
+.row .col-lg-8 p {
+    color: #FAF9F9;
+}
